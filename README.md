@@ -1,2 +1,6 @@
 # Power-BI-project
-This is the Superstore visualization project created using Power BI.
+
+Market Sales Performance Dashboard - Power BI
+- Load and transformed tables from excel files 
+- Built Star Schema for different tables (Modeling)
+- Designed and automated an Interactive Dashboard
